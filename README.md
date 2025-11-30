@@ -36,9 +36,9 @@
 
 ### 🌀 Animated Tech Carousel
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://readme-components.vercel.app/api?component=carousel&fill=00eaff&font=monospace&labels=Java,React,Spring%20Boot,Python,Machine%20Learning,MySQL,MongoDB,IoT,Cloud,System%20Design&animation=fadeleft" width="90%"/>
-</div>
+</div> -->
 
 ---
 
