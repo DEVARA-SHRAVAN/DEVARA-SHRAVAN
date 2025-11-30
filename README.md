@@ -1,65 +1,67 @@
-<!-- ✨ Modern Dark-Neon GitHub Profile for Shravan Kumar -->
+<!-- 🎨 PREMIUM CLEAN GITHUB PROFILE FOR SHRAVAN KUMAR -->
 
 <div align="center">
 
-<img src="https://i.imgur.com/6o5Vf3p.gif" width="900"/>
+<img src="https://i.imgur.com/6o5Vf3p.gif" width="100%" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E5FF&vCenter=true&lines=Hello%2C+I'm+Shravan+Kumar!;Software+Developer+%7C+React+%7C+Java+%7C+IoT;Full+Stack+Developer+In+Progress;Always+Learning+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1200&color=00C8FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Shravan+Kumar!;Software+Developer+%7C+React+%7C+Java+%7C+AI+%7C+IoT;Full+Stack+Developer+in+Progress;Building+Smart+Tech+%26+Innovative+Solutions🚀"/>
 
-<br/>
+<br>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=DEVARA-SHRAVAN&style=for-the-badge&color=00eaff"/>
+<img src="https://komarev.com/ghpvc/?username=DEVARA-SHRAVAN&style=flat-square&color=00ffee" />
 
 </div>
+
 
 ---
 
 ## 🚀 About Me
 
-💡 Passionate about building scalable applications, creative UI, IoT systems & AI automation.  
-⚙ Currently exploring: **React, Node.js, Spring Boot, Cloud & TypeScript**  
-📍 Based in **Bengaluru, India**  
-🎯 Goal: Become a **Full Stack + IoT/AI Engineer**
+✔ Full Stack & IoT Developer in progress  
+✔ Passionate about building real-world systems: AI + Web + IoT  
+✔ Exploring Node.js, Spring Boot, Cloud & ML  
+✔ Love solving DSA & system design challenges  
+
 
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,cs,react,nodejs,spring,hibernate,mysql,mongodb,docker,git,github,vscode&theme=dark" height="100"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,react,nodejs,spring,mysql,mongodb,git,docker,linux,vscode&theme=light" height="110"/>
 </div>
 
 ---
 
-## 📌 Featured Projects
+### 🌀 Animated Tech Carousel
 
 <div align="center">
-
-| Project | Tech | Link |
-|--------|------|------|
-| 🐛 **Silkworm Disease Detection (IoT + ML)** | Java, IoT, DBMS | 🔗 *(coming soon)* |
-| 🔥 **Firewall Log Classifier (ML + Security)** | Python, ML Models | 🔗 *(coming soon)* |
-| 🎮 **3D Airport Simulation using OpenGL** | C, OpenGL | 🔗 *(coming soon)* |
-| ✔️ **DoneDone – Task Management App** | React, CSS | 🔗 *(coming soon)* |
-
+<img src="https://readme-components.vercel.app/api?component=carousel&fill=00eaff&font=monospace&labels=Java,React,Spring%20Boot,Python,Machine%20Learning,MySQL,MongoDB,IoT,Cloud,System%20Design&animation=fadeleft" width="90%"/>
 </div>
 
 ---
 
-## 📊 GitHub Highlights
+## 📌 Highlights
+
+- 🔭 Working on **Firewall Log Classifier (ML)**
+- ⚙ Developing **Task Scheduling on Cloud**
+- 🧪 Built **Silkworm Disease Detection IoT System**
+- ✔ Made **DoneDone Task App (React)**
+
+---
+
+## 📊 GitHub Performance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DEVARA-SHRAVAN&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVARA-SHRAVAN&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DEVARA-SHRAVAN&show_icons=true&theme=transparent&hide_border=true&title_color=00eaff&text_color=90e0ef&icon_color=00eaff"/>
 
-<br/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVARA-SHRAVAN&layout=compact&theme=transparent&hide_border=true&title_color=00eaff&text_color=90e0ef"/>
 
-<img src="https://streak-stats.demolab.com?user=DEVARA-SHRAVAN&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=DEVARA-SHRAVAN&theme=modern-lilac&hide_border=true" height="160"/>
 
 </div>
 
@@ -67,20 +69,21 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DEVARA-SHRAVAN/DEVARA-SHRAVAN/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/DEVARA-SHRAVAN/DEVARA-SHRAVAN/output/github-contribution-grid-snake-dark.svg" height="200"/>
+</div>
 
 ---
 
-## 🌐 Portfolio & Resume
+## 🌎 Portfolio & Resume
 
 <div align="center">
 
-🔗 **Portfolio:** 👉 *Add your real link here*
+🔗 Portfolio: *(add link here once live)*  
+<br><br>
 
-<a href="https://your-resume-link.com" download>
-  <img src="https://img.shields.io/badge/Download%20Resume-00E5FF?style=for-the-badge&logo=google-drive&logoColor=black"/>
+<a href="resume.pdf" download>
+<img src="https://img.shields.io/badge/Download%20Resume-00eaff?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
 </a>
 
 </div>
@@ -107,4 +110,4 @@
 
 ---
 
-<p align="center">✨ *Thanks for visiting — feel free to star ⭐ my repositories!* ✨</p>
+<p align="center">✨ Thanks for visiting — feel free to ⭐ my repos if you like my work!</p>
