@@ -2,10 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/6o5Vf3p.gif" width="100%" />
-
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1200&color=00C8FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Shravan+Kumar!;Software+Developer+%7C+React+%7C+Java+%7C+AI+%7C+IoT;Full+Stack+Developer+in+Progress;Building+Smart+Tech+%26+Innovative+Solutions🚀"/>
 
 <br>
 
