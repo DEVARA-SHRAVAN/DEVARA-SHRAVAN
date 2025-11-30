@@ -79,7 +79,7 @@
 
 <div align="center">
 
-🔗 Portfolio: *(add link here once live)*  
+🔗 Portfolio: [(https://devara-shravan.github.io/Shravan_portfolio/)]
 <br><br>
 
 <a href="resume.pdf" download>
